@@ -1,0 +1,6 @@
+{
+  "name": "GymFlow",
+  "description": "Modern minimalist workout tracker with dark glassmorphism design, workout logger, exercise database, progress charts, fitness calculators, and streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
